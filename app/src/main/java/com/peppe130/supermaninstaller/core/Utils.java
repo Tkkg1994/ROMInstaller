@@ -17,7 +17,7 @@
 
 */
 
-package com.peppe130.rominstaller.core;
+package com.peppe130.supermaninstaller.core;
 
 import android.annotation.SuppressLint;
 import org.jetbrains.annotations.Contract;
@@ -57,13 +57,13 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Map;
 
-import com.peppe130.rominstaller.R;
-import com.peppe130.rominstaller.BuildConfig;
-import com.peppe130.rominstaller.ControlCenter;
+import com.peppe130.supermaninstaller.R;
+import com.peppe130.supermaninstaller.BuildConfig;
+import com.peppe130.supermaninstaller.ControlCenter;
 import com.peppe130.bouncingdialogs.BouncingDialog;
-import com.peppe130.rominstaller.activities.MainActivity;
-import com.peppe130.rominstaller.activities.InfoActivity;
-import com.peppe130.rominstaller.activities.SplashScreenActivity;
+import com.peppe130.supermaninstaller.activities.MainActivity;
+import com.peppe130.supermaninstaller.activities.InfoActivity;
+import com.peppe130.supermaninstaller.activities.SplashScreenActivity;
 import com.afollestad.assent.Assent;
 import com.afollestad.assent.AssentCallback;
 import com.afollestad.assent.PermissionResultSet;

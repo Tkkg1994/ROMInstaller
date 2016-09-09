@@ -17,7 +17,7 @@
 
 */
 
-package com.peppe130.rominstaller.core;
+package com.peppe130.supermaninstaller.core;
 
 import android.app.Dialog;
 import android.app.DialogFragment;
@@ -25,7 +25,7 @@ import android.os.Bundle;
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
-import com.peppe130.rominstaller.R;
+import com.peppe130.supermaninstaller.R;
 import com.peppe130.bouncingdialogs.BouncingDialog;
 import com.stericson.RootTools.RootTools;
 import com.stericson.RootShell.execution.Command;

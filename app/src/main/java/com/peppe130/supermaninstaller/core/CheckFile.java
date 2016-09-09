@@ -17,7 +17,7 @@
 
 */
 
-package com.peppe130.rominstaller.core;
+package com.peppe130.supermaninstaller.core;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -28,10 +28,10 @@ import android.view.WindowManager;
 import java.io.IOException;
 import java.util.Arrays;
 
-import com.peppe130.rominstaller.R;
-import com.peppe130.rominstaller.ControlCenter;
+import com.peppe130.supermaninstaller.R;
+import com.peppe130.supermaninstaller.ControlCenter;
 import com.peppe130.bouncingdialogs.BouncingDialog;
-import com.peppe130.rominstaller.activities.MainActivity;
+import com.peppe130.supermaninstaller.activities.MainActivity;
 import com.google.common.io.Files;
 import com.google.common.hash.Hashing;
 import com.stericson.RootTools.RootTools;

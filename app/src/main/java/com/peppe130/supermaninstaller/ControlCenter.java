@@ -1,4 +1,4 @@
-package com.peppe130.rominstaller;
+package com.peppe130.supermaninstaller;
 
 import org.jetbrains.annotations.Contract;
 import android.support.annotation.Nullable;
@@ -9,8 +9,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.peppe130.rominstaller.core.Utils;
-import com.peppe130.rominstaller.core.FragmentsCollector;
+import com.peppe130.supermaninstaller.core.Utils;
+import com.peppe130.supermaninstaller.core.FragmentsCollector;
 import com.mikepenz.iconics.typeface.IIcon;
 import com.mikepenz.entypo_typeface_library.Entypo;
 import com.mikepenz.ionicons_typeface_library.Ionicons;
@@ -23,15 +23,15 @@ public class ControlCenter {
 
     //•• MD5 ••/////////////////////////////////////////////////////////////////////////////////////
 
-    public static String[] DEVICE_COMPATIBILITY_LIST = new String[] {"Any"};
+    public static String[] DEVICE_COMPATIBILITY_LIST = new String[] {"SM-G930F", "SM-G930FD", "SM-G930W8", "SM-G935F", "SM-G935FD", "SM-G930W8"};
     public static String[] ROM_MD5_LIST = new String[] {"b14da8918a4359c809f83884c5ec2f5b"};
     public static String[] RECOVERY_MD5_LIST = new String[] {"5fb732eea3d3e2b407fa7685c27a5354"};
 
     //•• Modes & UI ••//////////////////////////////////////////////////////////////////////////////
 
     public static Boolean TEST_MODE = false;
-    public static Boolean TRIAL_MODE = true;
-    public static Boolean BUTTON_UI = true;
+    public static Boolean TRIAL_MODE = false;
+    public static Boolean BUTTON_UI = false;
 
     //•• Manage Screens ••//////////////////////////////////////////////////////////////////////////
 

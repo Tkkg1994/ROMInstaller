@@ -17,7 +17,7 @@
 
 */
 
-package com.peppe130.rominstaller.core;
+package com.peppe130.supermaninstaller.core;
 
 
 @SuppressWarnings("unused")

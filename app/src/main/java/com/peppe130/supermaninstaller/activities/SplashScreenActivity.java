@@ -17,7 +17,7 @@
 
 */
 
-package com.peppe130.rominstaller.activities;
+package com.peppe130.supermaninstaller.activities;
 
 import org.jetbrains.annotations.Contract;
 import android.app.Activity;
@@ -33,9 +33,9 @@ import android.support.v4.content.ContextCompat;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
-import com.peppe130.rominstaller.R;
-import com.peppe130.rominstaller.core.Utils;
-import com.peppe130.rominstaller.ControlCenter;
+import com.peppe130.supermaninstaller.R;
+import com.peppe130.supermaninstaller.core.Utils;
+import com.peppe130.supermaninstaller.ControlCenter;
 import org.michaelevans.colorart.library.ColorArt;
 
 

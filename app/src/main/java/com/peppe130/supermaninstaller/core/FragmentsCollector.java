@@ -17,7 +17,7 @@
 
 */
 
-package com.peppe130.rominstaller.core;
+package com.peppe130.supermaninstaller.core;
 
 import android.support.annotation.NonNull;
 import android.os.Bundle;
@@ -28,8 +28,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import java.util.ArrayList;
 
-import com.peppe130.rominstaller.R;
-import com.peppe130.rominstaller.ControlCenter;
+import com.peppe130.supermaninstaller.R;
+import com.peppe130.supermaninstaller.ControlCenter;
 
 
 public class FragmentsCollector {

@@ -17,14 +17,14 @@
 
 */
 
-package com.peppe130.rominstaller.core;
+package com.peppe130.supermaninstaller.core;
 
 import android.content.Context;
 import android.support.v4.view.ViewPager;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 
-import com.peppe130.rominstaller.ControlCenter;
+import com.peppe130.supermaninstaller.ControlCenter;
 
 
 public class CustomViewPager extends ViewPager {

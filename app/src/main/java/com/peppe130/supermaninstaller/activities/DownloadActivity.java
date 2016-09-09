@@ -17,7 +17,7 @@
 
 */
 
-package com.peppe130.rominstaller.activities;
+package com.peppe130.supermaninstaller.activities;
 
 import android.support.annotation.NonNull;
 import android.graphics.Color;
@@ -39,11 +39,11 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.peppe130.rominstaller.R;
-import com.peppe130.rominstaller.core.Utils;
-import com.peppe130.rominstaller.ControlCenter;
+import com.peppe130.supermaninstaller.R;
+import com.peppe130.supermaninstaller.core.Utils;
+import com.peppe130.supermaninstaller.ControlCenter;
 import com.peppe130.bouncingdialogs.BouncingDialog;
-import com.peppe130.rominstaller.core.CustomFileChooser;
+import com.peppe130.supermaninstaller.core.CustomFileChooser;
 import mehdi.sakout.fancybuttons.FancyButton;
 import com.mikepenz.iconics.IconicsDrawable;
 import com.h6ah4i.android.widget.advrecyclerview.utils.AbstractDraggableItemViewHolder;

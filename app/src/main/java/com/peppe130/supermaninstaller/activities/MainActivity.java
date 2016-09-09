@@ -17,7 +17,7 @@
 
 */
 
-package com.peppe130.rominstaller.activities;
+package com.peppe130.supermaninstaller.activities;
 
 import android.support.annotation.NonNull;
 import android.app.ActivityManager;
@@ -41,16 +41,16 @@ import android.widget.FrameLayout;
 import android.widget.ImageButton;
 import java.io.File;
 
-import com.peppe130.rominstaller.R;
-import com.peppe130.rominstaller.core.Utils;
-import com.peppe130.rominstaller.ControlCenter;
-import com.peppe130.rominstaller.core.CheckFile;
+import com.peppe130.supermaninstaller.R;
+import com.peppe130.supermaninstaller.core.Utils;
+import com.peppe130.supermaninstaller.ControlCenter;
+import com.peppe130.supermaninstaller.core.CheckFile;
 import com.peppe130.bouncingdialogs.BouncingDialog;
-import com.peppe130.rominstaller.core.CustomViewPager;
-import com.peppe130.rominstaller.core.CustomFileChooser;
-import com.peppe130.rominstaller.core.FragmentsCollector;
-import com.peppe130.rominstaller.core.InstallDialog;
-import com.peppe130.rominstaller.core.SystemProperties;
+import com.peppe130.supermaninstaller.core.CustomViewPager;
+import com.peppe130.supermaninstaller.core.CustomFileChooser;
+import com.peppe130.supermaninstaller.core.FragmentsCollector;
+import com.peppe130.supermaninstaller.core.InstallDialog;
+import com.peppe130.supermaninstaller.core.SystemProperties;
 import com.afollestad.assent.Assent;
 import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;

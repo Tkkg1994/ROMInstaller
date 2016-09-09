@@ -17,7 +17,7 @@
 
 */
 
-package com.peppe130.rominstaller.activities;
+package com.peppe130.supermaninstaller.activities;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -27,10 +27,10 @@ import android.preference.PreferenceFragment;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 
-import com.peppe130.rominstaller.R;
-import com.peppe130.rominstaller.core.Utils;
-import com.peppe130.rominstaller.BuildConfig;
-import com.peppe130.rominstaller.ControlCenter;
+import com.peppe130.supermaninstaller.R;
+import com.peppe130.supermaninstaller.core.Utils;
+import com.peppe130.supermaninstaller.BuildConfig;
+import com.peppe130.supermaninstaller.ControlCenter;
 import com.mikepenz.iconics.IconicsDrawable;
 import com.mikepenz.google_material_typeface_library.GoogleMaterial;
 import com.mikepenz.community_material_typeface_library.CommunityMaterial;

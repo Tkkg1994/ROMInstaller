@@ -16,7 +16,7 @@
         android:layout_above="@+id/viewPagerIndicator"
         android:layout_marginBottom="22dp">
 
-        <com.peppe130.rominstaller.core.CustomViewPager
+        <com.peppe130.supermaninstaller.core.CustomViewPager
             android:id="@+id/viewPager"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
